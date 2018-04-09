@@ -1,0 +1,11 @@
+{
+  "HostNormal": "http://app.kjt.com",
+  "Login": "/LoginReg/Login",
+  "ShippingAddress": "/Customer/ShippingAddress",
+  "GetCart": "/Cart/GetCart",
+  "ClearCart": "/Cart/BatchDeleteSelectCartItems",
+  "AddCart": "/Cart/AddCart",
+  "CheckOut": "/Order/Checkout",
+  "GenerateOrder": "/Order/SubmitCheckout",
+  "PayTypeID": 118
+}
